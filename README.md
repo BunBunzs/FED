@@ -40,9 +40,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home   
   Landing page van de KLM website
-  <img src="readme-images/klmhome.jpg" alt="klm home page'>
+  
+  <![klm landing page eerste screenshot](readme-images/klmhome.jpg)img>
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Information https://www.klm.nl/en/information 
